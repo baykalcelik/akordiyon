@@ -1,0 +1,47 @@
+
+#akorCover{
+    color:black;
+    background-color: rgb(250, 246, 241);
+    padding: 1rem;
+    box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    border: 1px solid rgb(230, 229, 229);
+
+}
+
+#questionDiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+
+#qspan{
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+#akorBtn{
+    width:2rem;
+    height:2rem;
+    font-size: 1.2rem;
+    color:brown;
+    background-color: rgb(212, 209, 209);
+    border-radius: 50%;
+    border:none;
+    outline: none;
+    cursor:pointer;
+    user-select: none;
+
+}
+
+#answerDiv{
+    color:grey;
+    /* display: none; */
+}
+
+
+
+
+
